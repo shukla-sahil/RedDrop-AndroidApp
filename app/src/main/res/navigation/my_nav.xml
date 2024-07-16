@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/first_frag">
+
+    <fragment
+        android:id="@+id/first_frag"
+        android:name="com.example.project58.first_frag"
+        android:label="fragment_first_frag"
+        tools:layout="@layout/activity_home2"
+
+        />
+</navigation>

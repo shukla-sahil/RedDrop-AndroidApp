@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417381291462",
+    "project_id": "red-drop-999",
+    "storage_bucket": "red-drop-999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417381291462:android:b4d424792b158dbcd0cec7",
+        "android_client_info": {
+          "package_name": "com.example.project58"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417381291462-9dedksdak5ev7v43o3tikocka95oqkjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DmcKM2nnrP8vcQXUvqaedSnxEWhJ5uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417381291462-9dedksdak5ev7v43o3tikocka95oqkjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
